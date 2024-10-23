@@ -1,0 +1,52 @@
+[
+ {
+ "plant_id": 11,
+ "name": "Rose",
+ "watering_frequency": 3
+ },
+ {
+ "plant_id": 12,
+ "name": "Jade Plant",
+ "watering_frequency": 9
+ },
+ {
+ "plant_id": 13,
+ "name": "Pothos",
+ "watering_frequency": 5
+ },
+ {
+ "plant_id": 14,
+ "name": "ZZ Plant",
+ "watering_frequency": 12
+ },
+ {
+ "plant_id": 15,
+ "name": "Philodendron",
+ "watering_frequency": 4
+ },
+ {
+ "plant_id": 16,
+ "name": "Fiddle Leaf Fig",
+ "watering_frequency": 6
+ },
+ {
+ "plant_id": 17,
+ "name": "Succulent",
+ "watering_frequency": 14
+ },
+ {
+ "plant_id": 18,
+ "name": "Rubber Plant",
+ "watering_frequency": 7
+ },
+ {
+ "plant_id": 19,
+ "name": "Begonia",
+ "watering_frequency": 3
+ },
+ {
+ "plant_id": 20,
+ "name": "Geranium",
+ "watering_frequency": 2
+ }
+]
